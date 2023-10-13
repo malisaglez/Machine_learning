@@ -10,3 +10,8 @@
 02 - Space X Collection: limpieza, filtración y descodificación de BBDD
 
 03 - Space X EDA with Data Visualization: operaciones con BBDD y construcción de gráficas
+
+# Miércoles 11:
+01-  Folium: Uso de la librería Folium para representar los incidentes en San Francisco y la migración por paises a Canadá
+
+02-
