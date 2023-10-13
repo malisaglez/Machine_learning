@@ -14,4 +14,4 @@
 # Miércoles 11:
 01-  Folium: Uso de la librería Folium para representar los incidentes en San Francisco y la migración por paises a Canadá
 
-02-
+02- Predecir el valor de Bitcoin: predecir los valores del Bitcoin
