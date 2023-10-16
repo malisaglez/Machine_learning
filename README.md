@@ -18,4 +18,4 @@
 
 03- EDA Using SQL: trabajar SQL desde pandas
 
-04- 
+04- EDA with Data Visualization: Visualización y analisi de datos 
